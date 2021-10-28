@@ -1,0 +1,16 @@
+Here I'm writing command what i know in linux...
+ls
+pwd
+cd
+mkdir
+rmdir
+cat 
+touch
+nano 
+vi
+sudo
+rmdir - used to remove directories
+rm - used to remove files
+
+
+These are the basic commands used in linux...
